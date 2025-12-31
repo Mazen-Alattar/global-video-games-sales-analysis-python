@@ -106,8 +106,7 @@ These features enabled deeper platform-level analysis.
 - Python
 - pandas
 - numpy
-- matplotlib
-- seaborn
+- plotly
 - Jupyter Notebook
 
 ---
